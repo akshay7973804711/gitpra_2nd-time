@@ -7,3 +7,12 @@
     text-transform: capitalize;
     text-overflow: ellipsis;
 }
+.ok2{
+
+    height: 100px;
+    width: 100px;
+    background-color: #5ee112;
+    display: flex;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+}
