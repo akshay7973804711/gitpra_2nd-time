@@ -3,5 +3,7 @@
     height: 100px;
     width: 100px;
     background-color: #af0909;
-    
+    display: flex;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
 }
